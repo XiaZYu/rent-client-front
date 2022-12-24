@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        Hello, 张震杰
+        Hello, 小屁股张震杰
       </main>
     </>
   )
